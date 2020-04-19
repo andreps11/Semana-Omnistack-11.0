@@ -4,7 +4,6 @@
 <img src="frontend/src/assets/img_01.png">
 <img src="frontend/src/assets/img_02.png">
 <img src="frontend/src/assets/img_03.png">
-<img src="frontend/src/assets/img_04.png">
 
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
